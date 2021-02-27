@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Vaggelis Dimopoulos"
-resume_title:                   "Undergraduate Student"
+resume_title:                   "Computer Science"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "p18dimo@ionio.gr"
