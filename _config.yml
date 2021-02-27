@@ -20,8 +20,8 @@ resume_contact_email:           "p18dimo@ionio.gr"
 resume_contact_telephone:       ""
 resume_contact_address:         ""
 
-resume_header_contact_info:     "p18dimo@ionio.gr • contact@badwolf.icu"
-display_header_contact_info:    "true"
+resume_header_contact_info:     ""
+display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Undergraduate Student with passion to create digital content</p>"
 
@@ -47,7 +47,7 @@ resume_section_associations:    false
 resume_social_links:
   resume_github_url:            "https://github.com/badwolfgr"
   resume_twitter_url:           "https://twitter.com/vaggelis14"
-  resume_linkedin_url:          ""
+  # resume_linkedin_url:          ""
   resume_website_url:           "https://badwolfgr.icu"
 resume_print_social_links:      true
 
