@@ -1,8 +1,3 @@
-- company: Website Ako - Beats
-  position: 
-  duration: Jan, 2021
-  summary: Web Development of e-commerce site selling beats.
-  
 - company: Website Medi - Terranew
   position: 
   duration: Oct, 2017
@@ -12,6 +7,11 @@
   position: 
   duration: Aug, 2018
   summary: Web Development of e-commerce site selling tools and more.
+  
+- company: Website Ako - Beats
+  position: 
+  duration: Jan, 2021
+  summary: Web Development of e-commerce site selling beats.
   
 - company: Video Editor
   position:
